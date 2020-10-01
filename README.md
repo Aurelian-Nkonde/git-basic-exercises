@@ -1,2 +1,2 @@
 
-some text on readm.md file 
+some text on readme.md file 
