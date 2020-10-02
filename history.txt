@@ -1,0 +1,1000 @@
+ 1095  ls
+ 1096  clear
+ 1097  pip install django
+ 1098  pip install django-crispy-forms
+ 1099  pip install psycopg2
+ 1100  pip install psycopg2-binary
+ 1101  pip install djangorestframework
+ 1102  pip freeze
+ 1103  cd ..
+ 1104  ls
+ 1105  clear
+ 1106  ls
+ 1107  cd Auth
+ 1108  ls
+ 1109  python3 manage.py startproject Website
+ 1110  django-admin startproject Authen
+ 1111  cd Authen
+ 1112  python3 manage.py startapp web
+ 1113  ls
+ 1114  mkdir templates && cd templates
+ 1115  ls
+ 1116  touch base.html
+ 1117  touch login.html
+ 1118  touch signup.html
+ 1119  touch logout.html
+ 1120  pip freeze
+ 1121  pip install django-crispy-forms
+ 1122  clear
+ 1123  cd ..
+ 1124  ls
+ 1125  cd Desktop
+ 1126  mkdir Auth
+ 1127  cd Auth
+ 1128  python3 -m venv ven
+ 1129  source ven/bin/activate
+ 1130  pip install django
+ 1131  pip install psycopg2
+ 1132  pip install psycopg2-binary
+ 1133  pip freeze
+ 1134  code .
+ 1135  ls
+ 1136  code .
+ 1137  source ven/bin/activate
+ 1138  ls
+ 1139  cd Authen
+ 1140  ls
+ 1141  cd ..
+ 1142  ls
+ 1143  source venv/bin/activate
+ 1144  ls
+ 1145  cd Library
+ 1146  ls
+ 1147  python manage.py makemigrations
+ 1148  python manage.py migrate
+ 1149  python manage.py createsuperuser
+ 1150  python manage.py runserver
+ 1151  cd Desktop
+ 1152  source djangovenv/bin/activate
+ 1153  ls
+ 1154  clear
+ 1155  mkdir Two && cd Two
+ 1156  ls
+ 1157  django-admin startproject Project
+ 1158  cd Project
+ 1159  python manage.py startapp website
+ 1160  ls
+ 1161  code .
+ 1162  cd ..
+ 1163  source djangovenv/bin/activate
+ 1164  cd Two
+ 1165  cd Project
+ 1166  ls
+ 1167  clear
+ 1168  python manage.py migrate
+ 1169  clear
+ 1170  python manage.py migrate
+ 1171  python manage.py createsuperuser
+ 1172  python manage.py runserver
+ 1173  cd ..
+ 1174  source djangovenv/bin/activate
+ 1175  cd Two
+ 1176  ls
+ 1177  cd Project
+ 1178  python manage.py runserver
+ 1179  pip install django-crispy-forms
+ 1180  python manage.py runserver
+ 1181  cd ..
+ 1182  source djangovenv/bin/activate
+ 1183  cd Two
+ 1184  ls
+ 1185  cd Project
+ 1186  ls
+ 1187  clear
+ 1188  python manage.py runserver
+ 1189  node --version
+ 1190  node app.js
+ 1191  clear
+ 1192  node app.js
+ 1193  clear
+ 1194  node app.js
+ 1195  clear
+ 1196  node app.js
+ 1197  clear
+ 1198  node app.js
+ 1199  clear
+ 1200  node --version
+ 1201  clear
+ 1202  node app.js
+ 1203  clear
+ 1204  node app.js
+ 1205  clear
+ 1206  node app.js
+ 1207  clear
+ 1208  node app.js
+ 1209  clear
+ 1210  node app.js
+ 1211  clear
+ 1212  node app.js
+ 1213  clear
+ 1214  node app.js
+ 1215  clear
+ 1216  node app.js
+ 1217  clar
+ 1218  clear
+ 1219  node app.js
+ 1220  clear
+ 1221  node app.js
+ 1222  clear
+ 1223  node app.js
+ 1224  clear
+ 1225  node app.js
+ 1226  clear
+ 1227  node app.js
+ 1228  clear
+ 1229  node app.js
+ 1230  clear
+ 1231  node app.js
+ 1232  clear
+ 1233  node app.js
+ 1234  ls
+ 1235  code.
+ 1236  code .
+ 1237  node app.js
+ 1238  ls
+ 1239  source venv/bin/activate
+ 1240  ls
+ 1241  cd Library
+ 1242  ls
+ 1243  python manage.py runserver
+ 1244  node app.js
+ 1245  clear
+ 1246  node app.js
+ 1247  cd ..
+ 1248  source djangovenv/bin/activate
+ 1249  cd auth
+ 1250  lscd auth
+ 1251  cd mkdir auth
+ 1252  cd ..
+ 1253  source djangovenv/bin/activate
+ 1254  cd auth
+ 1255  ls
+ 1256  django-admin startproject Auth
+ 1257  cd Auth
+ 1258  python3 manage.py startapp accounts
+ 1259  ls
+ 1260  python manage.py migrate
+ 1261  python manage.py createsuperuser
+ 1262  python manage.py runserver
+ 1263  python manage.py rucreatesuperuser
+ 1264  python manage.py createsuperuser
+ 1265  python manage.py runserver
+ 1266  node app.js
+ 1267  restart
+ 1268  exit
+ 1269  ls /
+ 1270  ls
+ 1271  ls /
+ 1272  ls
+ 1273  clear
+ 1274  pwd
+ 1275  cd /
+ 1276  ls
+ 1277  cd Desktop
+ 1278  ls
+ 1279  cd home
+ 1280  ls
+ 1281  cd aconte
+ 1282  ls
+ 1283  cd /
+ 1284  pwd
+ 1285  l
+ 1286  scd home
+ 1287  cd home
+ 1288  ls
+ 1289  pwd
+ 1290  cd ~
+ 1291  pwd
+ 1292  cd
+ 1293  pwd
+ 1294  ls
+ 1295  man ls 
+ 1296  man cd
+ 1297  man man
+ 1298  ls
+ 1299  source venv/bin/activate
+ 1300  ls
+ 1301  cd Library
+ 1302  ls
+ 1303  python manage.py runserver
+ 1304  ls
+ 1305  cd Desktop
+ 1306  ks
+ 1307  ls
+ 1308  clear
+ 1309  mkdir new
+ 1310  cd new
+ 1311  ls
+ 1312  pwd
+ 1313  cd ..
+ 1314  pwd
+ 1315  rmdir new
+ 1316  ls
+ 1317  cd new
+ 1318  ls
+ 1319  cd /
+ 1320  ppwd
+ 1321  pwd
+ 1322  ls
+ 1323  cd hoeme
+ 1324  cd home
+ 1325  cd /
+ 1326  ped
+ 1327  cd home
+ 1328  cd /
+ 1329  pwd
+ 1330  cd home
+ 1331  cd ~
+ 1332  pwd
+ 1333  cd home
+ 1334  ls
+ 1335  cd me
+ 1336  ls
+ 1337  cd`
+ 1338  exit
+ 1339  qqq
+ 1340  wqwqwqwqw
+ 1341  exit()
+ 1342  q
+ 1343  \q
+ 1344  ls
+ 1345  cd me
+ 1346  cd ~
+ 1347  pwd
+ 1348  ls
+ 1349  cd ~
+ 1350  cd ~me
+ 1351  cd ~/me
+ 1352  ls
+ 1353  cd ..
+ 1354  ls
+ 1355  cd /
+ 1356  cd ~/Music
+ 1357  ls
+ 1358  clear
+ 1359  cd ../..
+ 1360  ls
+ 1361  clear
+ 1362  man
+ 1363  yes
+ 1364  man man
+ 1365  man cd
+ 1366  man ls
+ 1367  ls
+ 1368  cd Desktop
+ 1369  mnkdir me
+ 1370  mkdir me
+ 1371  ls
+ 1372  rmdir me
+ 1373  ls
+ 1374  cd me
+ 1375  ls
+ 1376  clear
+ 1377  ls
+ 1378  mkdir new
+ 1379  touch me.txt
+ 1380  mv me.txt new/
+ 1381  cd new
+ 1382  ls
+ 1383  370951
+ 1384  cd Desktop
+ 1385  ls
+ 1386  clear
+ 1387  git-basics-practice
+ 1388  mkdir git-basics
+ 1389  cd git-basics
+ 1390  ls
+ 1391  clear
+ 1392  pwd
+ 1393  clear
+ 1394  ls -a
+ 1395  clear
+ 1396  git init
+ 1397  ls
+ 1398  ls -a
+ 1399  ls
+ 1400  clear
+ 1401  git status
+ 1402  touch README.md
+ 1403  ls
+ 1404  git status
+ 1405  ls
+ 1406  clear
+ 1407  git log
+ 1408  git add README.md
+ 1409  ld
+ 1410  git status
+ 1411  ls
+ 1412  clear
+ 1413  git status
+ 1414  git rm --cached READM.md
+ 1415  git rm --cached README.md
+ 1416  git status
+ 1417  clear
+ 1418  git add .
+ 1419  git status
+ 1420  git commit -m 
+ 1421  clear
+ 1422  git status
+ 1423  git commit -m 'initial commit'
+ 1424  git log
+ 1425  nano README.md
+ 1426  git status
+ 1427  nano README.md
+ 1428  git status
+ 1429  ls
+ 1430  git add .
+ 1431  git commit -m 'second commit'
+ 1432  git status
+ 1433  nano README.md
+ 1434  git status
+ 1435  ls
+ 1436  git add .
+ 1437  git commit -m 'third commit'
+ 1438  git log
+ 1439  git checkout df752d717ee6a1ec9fee8549b868889b5481ce8e
+ 1440  cat README.md
+ 1441  git checkout master
+ 1442  cat README.md
+ 1443  git checkout b milkshake-flavours
+ 1444  git checkout -b milkshake-flavours
+ 1445  ls
+ 1446  git branch
+ 1447  nano milkshake.md
+ 1448  git status
+ 1449  git add ,
+ 1450  git add .
+ 1451  git status
+ 1452  git commit -m 'added milkshake'
+ 1453  git status
+ 1454  git log
+ 1455  git checkout master
+ 1456  ls
+ 1457  git status
+ 1458  git checkout -b history
+ 1459  git branch
+ 1460  git loog
+ 1461  git log
+ 1462  history > history.txt
+ 1463  ls
+ 1464  git status
+ 1465  git add .
+ 1466  git commit -m 'added history'
+ 1467  git status
+ 1468  git branch
+ 1469  git checkout milkshake-flavours
+ 1470  ls
+ 1471  git log
+ 1472  ls
+ 1473  nano README.md
+ 1474  git status
+ 1475  git add .
+ 1476  git commit -m 'random readme changes'
+ 1477  git log
+ 1478  git checkout history
+ 1479  cat README.md
+ 1480  rm README.md
+ 1481  echo "booya" > README.md
+ 1482  ls
+ 1483  git status
+ 1484  git add .
+ 1485  git commit -m 'rewrote readme'
+ 1486  ls
+ 1487  clear
+ 1488  git checkout master
+ 1489  ls
+ 1490  cd Desktop
+ 1491  cd git-basics
+ 1492  git branch
+ 1493  git log
+ 1494  git checkout milkshake-flavoures
+ 1495  git checkout milkshake-flavours
+ 1496  git status
+ 1497  ls
+ 1498  git checkout history
+ 1499  ls
+ 1500  git checkout master
+ 1501  git merge milkshake-flavours
+ 1502  ls
+ 1503  git log
+ 1504  git checkout history
+ 1505  git log
+ 1506  git checkout milkshake-flavours
+ 1507  git log
+ 1508  node app.js
+ 1509  clear
+ 1510  node app.js
+ 1511  clear
+ 1512  node app.js
+ 1513  ls
+ 1514  source venv/bin/activate
+ 1515  ls
+ 1516  clear
+ 1517  ls
+ 1518  cd Library
+ 1519  ls
+ 1520  python manage.py runserver
+ 1521  python3 manage.py startapp accounts
+ 1522  ls
+ 1523  source /home/aconte/Desktop/Django_library/venv/bin/activate
+ 1524  /home/aconte/Desktop/Django_library/venv/bin/python3
+ 1525  python manage.py runserver
+ 1526  ls
+ 1527  cd Library
+ 1528  ls
+ 1529  python manage.py runserver
+ 1530  source  venv/bin/activate
+ 1531  ls
+ 1532  cd Library
+ 1533  ls
+ 1534  clear
+ 1535  python manage.py runserver
+ 1536  ls
+ 1537  source venv/bin/activate
+ 1538  ls
+ 1539  cd Library
+ 1540  ls
+ 1541  clear
+ 1542  pip freeze
+ 1543  python manage.py runserver
+ 1544  pip install django-crispy-bulma
+ 1545  python manage.py runserver
+ 1546  pip install crispy-forms-bulma
+ 1547  python manage.py runserver
+ 1548  sudo add-apt-repository ppa:webupd8team/atom
+ 1549  sudo apt-get update
+ 1550  sudo apt-get install atom
+ 1551  numlockx off
+ 1552  node app.js
+ 1553  ls
+ 1554  cd ..
+ 1555  ls
+ 1556  clear
+ 1557  git clone  https://github.com/thousand10/git-basic-exercises.git
+ 1558  git clone https://github.com/Umuzi-org/tech-department.git
+ 1559  cd tech-department
+ 1560  ls
+ 1561  git branch
+ 1562  git log
+ 1563  git branch -a
+ 1564  git checkout project/git-basic-exercises
+ 1565  git checkout git-basic-exercises
+ 1566  git remote update
+ 1567  git pull origin master
+ 1568  git remote update
+ 1569  git branch
+ 1570  git branch -a
+ 1571  git checkout   remotes/origin/android-projects
+ 1572  git branch
+ 1573  git checkout master
+ 1574  git branch
+ 1575  git checkout project/git-basic-exercises
+ 1576  git remote -v
+ 1577  git checkout -b project/git-basic-exercises
+ 1578  git branch
+ 1579  git remote -v
+ 1580  git log
+ 1581  cd ..
+ 1582  ls
+ 1583  cd git-basic-exercises
+ 1584  ls
+ 1585  git log
+ 1586  cd ..
+ 1587  mkdir this-will-be-another-repo
+ 1588  cd this-will-be-another-repo
+ 1589  ls
+ 1590  git init
+ 1591  touch README.md
+ 1592  git add .
+ 1593  git status
+ 1594  git commit -m 'the new commit'
+ 1595  cd ..
+ 1596  cd git-basic-exercies
+ 1597  cd git-basic-exercises
+ 1598  git logg
+ 1599  git log
+ 1600  touch ignore-me.db
+ 1601  git status
+ 1602  nano .gitignore
+ 1603  git status
+ 1604  mkdir large-directory-that-should-be-local-only
+ 1605  cd large-directory-that-should-be-local-only
+ 1606  touch README.md
+ 1607  ls
+ 1608  nano README.md
+ 1609  git status
+ 1610  cd ..
+ 1611  git status
+ 1612  nano .gitignore
+ 1613  ls
+ 1614  git status
+ 1615  nano .gitignore
+ 1616  git status
+ 1617  git add.
+ 1618  git add .
+ 1619  git status
+ 1620  git commit -m 'last commit'
+ 1621  git push
+ 1622  git status
+ 1623  git push
+ 1624  git branch
+ 1625  git status
+ 1626  git branch
+ 1627  git checkout history
+ 1628  git branch
+ 1629  git checkout master
+ 1630  git merge history
+ 1631  git master
+ 1632  git branch
+ 1633  git fetch
+ 1634  git branch -va
+ 1635  git merge remotes/origin/history
+ 1636  git merge remotes/origin/HEAD
+ 1637  git merge remotes/origin/master
+ 1638  git remote update
+ 1639  git pull origin master
+ 1640  git remote update
+ 1641  git status
+ 1642  git merge history
+ 1643  git merge master
+ 1644  git merge HEAD
+ 1645  git branch''
+ 1646  git mergee history
+ 1647  git merge history
+ 1648  git checkout history
+ 1649  ls
+ 1650  nano README.md
+ 1651  git branch
+ 1652  git status
+ 1653  git add .
+ 1654  git status
+ 1655  git commit -c 'commit'
+ 1656  git commit -m 'commit'
+ 1657  git checkout master
+ 1658  git status
+ 1659  git merge history
+ 1660  y
+ 1661  git status
+ 1662  git push
+ 1663  git history
+ 1664  git checkout history
+ 1665  git push
+ 1666  git status
+ 1667  gti checkout master
+ 1668  git checkout master
+ 1669  git merge history
+ 1670  git push
+ 1671  git branch
+ 1672  git pull remote update
+ 1673  git branch
+ 1674  git remote update
+ 1675  git pull remote update
+ 1676  git status
+ 1677  git merge history
+ 1678  git checkout  milkshake-flavours
+ 1679  git pull remote update
+ 1680  git remote update
+ 1681  git status
+ 1682  git checkout master
+ 1683  git branch
+ 1684  git pull origin master
+ 1685  git remote update
+ 1686  git pull origin master
+ 1687  git merge history
+ 1688  git merge milkshake-flavours
+ 1689  git merge origin/milkshake-flavours
+ 1690  git checkout milkshake-flavours
+ 1691  git pull origin master
+ 1692  git remote update
+ 1693  git checkout master
+ 1694  git status
+ 1695  git branch
+ 1696  git checkout milkshake-flavours
+ 1697  git bbranch
+ 1698  git branch
+ 1699  git checkout milkshakee-flavours
+ 1700  git checkout milkshake-flavours
+ 1701  git branch
+ 1702  git pull origin milkshake-flavours
+ 1703  git remote update milkshake-flavours
+ 1704  git remote update
+ 1705  cd Desktop
+ 1706  mkdir testing-git
+ 1707  cd testin-git
+ 1708  cd testing-git
+ 1709  ls
+ 1710  git init
+ 1711  ls
+ 1712  ls -a
+ 1713  git branch
+ 1714  ls -a
+ 1715  git statu
+ 1716  git status
+ 1717  touch README.md
+ 1718  nano README.md
+ 1719  git status
+ 1720  git add .
+ 1721  git commit -m 'the one commit'
+ 1722  git status
+ 1723  git checkout -b the_conflict
+ 1724  git branch
+ 1725  ls
+ 1726  nano README.md
+ 1727  git status
+ 1728  git add README.md
+ 1729  git commit -m 'edits made on the branch'
+ 1730  git branch
+ 1731  git checkout master
+ 1732  git branch
+ 1733  nano README.md
+ 1734  git status
+ 1735  git add .
+ 1736  git commit -m 'edits add on the master'
+ 1737  git branch
+ 1738  git merge the_conflict
+ 1739  cat README.md
+ 1740  git status'
+ 1741  exit
+ 1742  exist()
+ 1743  q
+ 1744  \q
+ 1745  e2e2e
+ 1746  it
+ 1747  cd Desktop
+ 1748  cd testing-git
+ 1749  ls
+ 1750  git status
+ 1751  git commit 
+ 1752  git status
+ 1753  git add README.md
+ 1754  git commit -'the final commit'
+ 1755  cd Desktop
+ 1756  mkdir Testing
+ 1757  cd Testing
+ 1758  git init
+ 1759  git status
+ 1760  ls
+ 1761  ls -a
+ 1762  clear
+ 1763  git touch README.md
+ 1764  touch README.md
+ 1765  git status
+ 1766  git add .
+ 1767  git commit -m 'the first commit'
+ 1768  git branch
+ 1769  git checkout -b 'the_new_branch'
+ 1770  git branch
+ 1771  gls
+ 1772  ls
+ 1773  nano README.md
+ 1774  git checkout master
+ 1775  ls
+ 1776  nano README.md
+ 1777  git status
+ 1778  git add .
+ 1779  git commit -m 'one'
+ 1780  git status
+ 1781  git checkout the_new_branch
+ 1782  ls
+ 1783  nano README.md
+ 1784  cd Desktop
+ 1785  mkdir testing
+ 1786  cd testing
+ 1787  git init
+ 1788  touch readme.md
+ 1789  ls
+ 1790  nano readm.me
+ 1791  git status
+ 1792  ls
+ 1793  cd Desktop
+ 1794  mkdir testing
+ 1795  cd testing
+ 1796  git init
+ 1797  touch readme.md
+ 1798  ls
+ 1799  git status
+ 1800  git add .
+ 1801  nano readme.md
+ 1802  git status
+ 1803  git add .
+ 1804  git commit -m 'the first commit'
+ 1805  git status
+ 1806  git checkout -b 'first_branch'
+ 1807  git branch
+ 1808  ls
+ 1809  nano readme.md
+ 1810  git status
+ 1811  git add .
+ 1812  git commit -m 'commit made in new branch'
+ 1813  git status
+ 1814  git checkout master
+ 1815  git status
+ 1816  git branch'
+ 1817  cd Desktop
+ 1818  cd Testing
+ 1819  cd testing
+ 1820  ls
+ 1821  git branch
+ 1822  git merge first_branch
+ 1823  git status
+ 1824  git checkout first_branch
+ 1825  ls
+ 1826  git status
+ 1827  nano readme.md
+ 1828  git status
+ 1829  git add .
+ 1830  git commit -m 'the latest commit'
+ 1831  git status
+ 1832  git checkout master
+ 1833  nano readme.md
+ 1834  git status
+ 1835  git add .
+ 1836  git coommit -m 'commit'
+ 1837  git commit -m 'final'
+ 1838  git status
+ 1839  git branch
+ 1840  git merge first_branch
+ 1841  git add .
+ 1842  git status
+ 1843  git commit -m 'done'
+ 1844  git status
+ 1845  git merge first_branch
+ 1846  cd Desktop
+ 1847  mkdir new
+ 1848  mkdir new_pro
+ 1849  cd new_pro
+ 1850  git clonehttps://github.com/thousand10/git-basic-exercises.git
+ 1851  git clone https://github.com/thousand10/git-basic-exercises.git
+ 1852  ls
+ 1853  cd git-basic-exercises
+ 1854  ls
+ 1855  git branch
+ 1856  git pull origin master
+ 1857  git remote update
+ 1858  ls
+ 1859  nano ignore-me.md
+ 1860  git checkout history
+ 1861  git remote update
+ 1862  git pull origin history
+ 1863  git pull origin mastter
+ 1864  git pull origin master
+ 1865  git remote uupdate
+ 1866  git remote update
+ 1867  git branch
+ 1868  git log
+ 1869  git status
+ 1870  git branch -a
+ 1871  git checkout remotes/origin/history
+ 1872  git branch
+ 1873  ls
+ 1874  git status
+ 1875  git checkout master
+ 1876  git pull
+ 1877  git pull origin master
+ 1878  git remote update
+ 1879  ls
+ 1880  git branch
+ 1881  git checkout history
+ 1882  ls
+ 1883  git branch
+ 1884  ls
+ 1885  nano README.md
+ 1886  git status
+ 1887  git add .
+ 1888  git commit -m 'master branch commit'
+ 1889  git status
+ 1890  git branch
+ 1891  nano README.md
+ 1892  git status
+ 1893  git add .
+ 1894  git commit 
+ 1895  git checkout master
+ 1896  ls
+ 1897  nano README.md
+ 1898  ls
+ 1899  git status
+ 1900  git add .
+ 1901  git commit
+ 1902  git merge history
+ 1903  git add README.md
+ 1904  git commit
+ 1905  git push
+ 1906  git status
+ 1907  git checkout history
+ 1908  git push
+ 1909  ls
+ 1910  nano README.md
+ 1911  git status
+ 1912  git add .
+ 1913  git commit
+ 1914  git branch
+ 1915  git status
+ 1916  git push
+ 1917  git branch
+ 1918  git checkokut master
+ 1919  git checkout master
+ 1920  git pull origin master
+ 1921  git remote update
+ 1922  nano README.md
+ 1923  git status
+ 1924  git add .
+ 1925  git status
+ 1926  git commit
+ 1927  git merge history
+ 1928  git status
+ 1929  git add README.md
+ 1930  git commit -m 'latest'
+ 1931  git push
+ 1932  cat README.md
+ 1933  git branch
+ 1934  git merge history
+ 1935  git checkout history
+ 1936  git merge master
+ 1937  git push
+ 1938  git checkout master
+ 1939  git pull origin master
+ 1940  git remote update
+ 1941  nano README.md
+ 1942  git status
+ 1943  git merge history
+ 1944  git checkout history
+ 1945  git branch
+ 1946  nano README.md
+ 1947  git status
+ 1948  git add .
+ 1949  git status
+ 1950  git commit
+ 1951  git status
+ 1952  git pull origin/historyy
+ 1953  git pull origin/history
+ 1954  git branch
+ 1955  git checkout master
+ 1956  nano README.md
+ 1957  git merge history
+ 1958  git add .
+ 1959  git commit
+ 1960  git merge history
+ 1961  git add .
+ 1962  git commit -m 'the commit'
+ 1963  git merge
+ 1964  git pull
+ 1965  git push
+ 1966  git push origin master
+ 1967  cat README.md
+ 1968  git branch
+ 1969  nano README.md
+ 1970  git add .
+ 1971  git commit
+ 1972  git push
+ 1973  git branch
+ 1974  git checkout history
+ 1975  nano README.md
+ 1976  git status
+ 1977  git push
+ 1978  git status
+ 1979  git pull origin master
+ 1980  git remote update
+ 1981  git status
+ 1982  git branch
+ 1983  git rm -r history
+ 1984  ls
+ 1985  git rm --cached history.txt
+ 1986  ls
+ 1987  git rm --cached ignore-me.db
+ 1988  git status
+ 1989  ls
+ 1990  git rm --cached README.db
+ 1991  git rm --cached README.md
+ 1992  ld
+ 1993  ls
+ 1994  git rm -r cached milkshake-flavours
+ 1995  git rm -r --cached milkshake-flavours
+ 1996  ls
+ 1997  git status
+ 1998  git commit
+ 1999  git push origin master
+ 2000  git rm --cached .gitignore
+ 2001  git commit
+ 2002  git push origin master
+ 2003  nano .gitiggnore
+ 2004  git status
+ 2005  git commit
+ 2006  git rm README.md
+ 2007  git rm history.txt
+ 2008  git status
+ 2009  git rm .gitignore
+ 2010  it git clean -n
+ 2011  git clean -n
+ 2012  git clean -f
+ 2013  git status
+ 2014  git clean -f
+ 2015  git status
+ 2016  git commit
+ 2017  git push
+ 2018  git status
+ 2019  ls
+ 2020  git rm -r large-diirectory-that-should-be-local-only
+ 2021  git rm -r large-directory-that-should-be-local-only
+ 2022  ls
+ 2023  git push
+ 2024  git commit
+ 2025  git push
+ 2026  git checkout history
+ 2027  ls
+ 2028  git pull origin master
+ 2029  git remote update
+ 2030  ls
+ 2031  git status
+ 2032  git commit
+ 2033  git push
+ 2034  git checkout milkshake-flavours
+ 2035  git status
+ 2036  ls
+ 2037  git pull origin master
+ 2038  git remote update
+ 2039  ls
+ 2040  git push
+ 2041  git branch
+ 2042  git checkout master
+ 2043  git log
+ 2044  gitt staus
+ 2045  git status
+ 2046  ls
+ 2047  ls -a
+ 2048  touch README.md
+ 2049  git status
+ 2050  ls
+ 2051  git add .
+ 2052  git status
+ 2053  git reset HEAD README.md
+ 2054  git status
+ 2055  git add .
+ 2056  git status
+ 2057  git commit -m 'initial commit'
+ 2058  git status
+ 2059  git log
+ 2060  nano README.md
+ 2061  cat README.md
+ 2062  git status
+ 2063  git add .
+ 2064  git status
+ 2065  git commit -m 'second commit'
+ 2066  nano README.md
+ 2067  git status
+ 2068  git add .
+ 2069  git commit -m 'third commit'
+ 2070  git status
+ 2071  git branch
+ 2072  git log
+ 2073  git checkout 6426038e66de58390b4b4182f811b9ef9ff85190
+ 2074  cat README.md
+ 2075  git checkout master
+ 2076  git branch
+ 2077  git checkout milkshake-flavours
+ 2078  git branch
+ 2079  ls
+ 2080  nano milkshakes.md
+ 2081  git status
+ 2082  ls
+ 2083  git add .
+ 2084  git status
+ 2085  git commit -m 'added initial flavours'
+ 2086  ls
+ 2087  git log
+ 2088  git checkout master
+ 2089  git branch
+ 2090  git checkout history
+ 2091  git log
+ 2092  ls
+ 2093  git branch
+ 2094  history > history.txt
